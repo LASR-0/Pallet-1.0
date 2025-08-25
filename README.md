@@ -13,8 +13,8 @@ Pickled Bluewood,#273148
 
 and there is another one txt document for pallettes, but the goal is you just have to do into the data folder in the applications folder where its app data exists and replace the text document with your own one, effectively allowing easy simple data transfer, you could change your whole library easily, and you could even ask generative ai to write you a library, just write a prompt like "could you produce 50 colours in this format: colourName, HEX and example would be: Dim Red,#C05060." and you have a whole new set of colours.
 
-# things i liked about WFP:
-wfp was different but also felt familiar, the way the UI elements syntax worked reminded me of html but still different, the styling did feel clunky and also make the code feel busy visually, if you're going for a visual masterpiece then i probably wouldn't use wfp and when i plan to re do this project i will probably use something else. any ways this section is called what i LIKE about wfp not what i hate so.
+# things i liked about WPF:
+wpf was different but also felt familiar, the way the UI elements syntax worked reminded me of html but still different, the styling did feel clunky and also make the code feel busy visually, if you're going for a visual masterpiece then i probably wouldn't use wpf and when i plan to re do this project i will probably use something else. any ways this section is called what i LIKE about wpf not what i hate so.
 - i liked how lightweight the app is, its exe is only 148 kb but its folder is more like 150mb, which sounds like alot but compared to other frameworks like REACT which can be giga bytes i think its decent, can't get much more lightweight than this without a minimalist framework
 - i liked being able to write  the backend in c# and not having to use any IPC to communicate with the backend
 
